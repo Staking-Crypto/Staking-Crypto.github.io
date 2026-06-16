@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://staking-crypto.github.io/sitemap.xml
